@@ -6,6 +6,6 @@ def func(a, s):
 
 # number in the decimal system
 a = int(input())
-# decimal system
+# system
 s = int(input())
 print(func(a,s))
